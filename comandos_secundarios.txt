@@ -1,1 +1,4 @@
 esse arquivo contém arquivos secundários
+
+- primeiro comando
+- segundo comando 
